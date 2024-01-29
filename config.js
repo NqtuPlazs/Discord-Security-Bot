@@ -1,8 +1,8 @@
 const _config = {
 
     // Client Settings
-    prefix: "s!",
-    token: "your-token",
+    prefix: "$",
+    token: "MTIwMTU3MDIwNzgyNzc3MTU0Mg.GW5WB7.ZdUPhc6PUU6RY5x8xRgDkINNOwZy-ODgYguFS4",
     date_format: "MM-DD-YYYY HH:mm A",
     copyright: "© 2021 Your Name",
     colorhex: "#eb3734",
