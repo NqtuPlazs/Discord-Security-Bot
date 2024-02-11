@@ -1,12 +1,12 @@
 const _config = {
 
     // Client Settings
-    prefix: "s!",
-    token: "your-token",
-    date_format: "MM-DD-YYYY HH:mm A",
-    copyright: "© 2021 Your Name",
+    prefix: "es$",
+    token: "MTIwNjIzMzQzMjE3MTA4OTk4MA.G-7K7b.xudG6tpRVgadJ3d_NU3sbqHrrGgHfb129RPDas",
+    date_format: "02-11-2024 HH:mm A",
+    copyright: "© 2024 Elite Slayers",
     colorhex: "#eb3734",
-    voicechanneltojoin: "some-id",
+    voicechanneltojoin: "1189615055134802072",
     port: "8080",
     debugmode: true,
 
@@ -14,7 +14,7 @@ const _config = {
     database: {
         host: "localhost",
         user: "root",
-        password: "",
+        password: "IDKOKIDKOK6969",
         database: "security"
     },
 
